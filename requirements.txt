@@ -5,11 +5,10 @@ backports.weakref==1.0.post1
 cryptography==2.1.4
 enum34==1.1.10
 funcsigs==1.0.2
-futures==3.3.0
+
 gast==0.3.3
 google-pasta==0.2.0
 grpcio==1.28.1
-gyp==0.1
 h5py==2.10.0
 idna==2.6
 ipaddress==1.0.17
